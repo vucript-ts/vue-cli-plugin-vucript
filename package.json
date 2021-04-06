@@ -25,6 +25,6 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "vucript": "^0.0.1"
+        "vucript": "<=0.1"
     }
 }
