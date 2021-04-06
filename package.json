@@ -1,0 +1,30 @@
+{
+    "name": "vue-cli-plugin-vucript",
+    "version": "0.1.0",
+    "description": "vue-cli plugin to add Vucript",
+    "main": "index.js",
+    "keywords": [
+        "vue",
+        "cli",
+        "vucript"
+    ],
+    "author": "s19514tt",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vucript-ts/vue-cli-plugin-vucript/issues"
+    },
+    "homepage": "https://github.com/vucript-ts/vue-cli-plugin-vucript/",
+    "publishConfig": {
+        "access": "public"
+    },
+    "peerDependencies": {
+        "@vue/cli-service": "^4.0.0",
+        "vue": "^3.0.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "vucript": "^0.0.1"
+    }
+}
